@@ -23,10 +23,6 @@
   <img align="center" alt="Pedro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Pedro-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
- 
-  <--!
-  <img align="center" alt="Pedro-Postman" height="30" width="30" src="https://vstbro.com/wp-content/uploads/2021/05/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad-300x300.png">
-  -->
-  
+   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
