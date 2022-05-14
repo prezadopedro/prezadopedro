@@ -1,5 +1,10 @@
 # Olá 👋
 ## Sou Cadete na 42 e estudante de ADS na UNIP
+### Conhecimentos em:
+<p>- Linguagem Estruturada</p>
+<p>- Orientação a objetos</p>
+<p>- Frameworks</p>
+<p>- Banco de dados SQL e NoSQL</p>
  
    <div align="left">
   <a href="https://github.com/prezadopedro">
