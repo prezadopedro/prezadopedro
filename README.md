@@ -2,6 +2,7 @@
 ## Sou Cadete na 42 e estudante de ADS na UNIP
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=prezadopedro&show_icons=true&theme=vision-friendly-dark)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prezadopedro&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
